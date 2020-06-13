@@ -6,4 +6,4 @@
 
 ### Feel free to take any code and modify as you wish - any comments or suggestions are welcome. If you find any of my efforts useful please let me know by giving a star - it would be encouraging. 
  
-Enjoy the the mini lessons.
+### Enjoy my lessons.
